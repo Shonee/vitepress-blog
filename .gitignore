@@ -1,0 +1,3 @@
+# .vitepress/dist/ 不好使，要用 .vitepress/dist/**
+.vitepress/cache/**
+.vitepress/dist/**
